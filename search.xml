@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>论文模板</title>
+      <link href="/2023/11/28/2023-11-28%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/11/28/2023-11-28%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="基于YOLO算法的xxxx识别研究"><a href="#基于YOLO算法的xxxx识别研究" class="headerlink" title="基于YOLO算法的xxxx识别研究"></a>基于YOLO算法的xxxx识别研究</h1><h4 id="作者：沨泾w-本文仅用于测试文档功能，请勿生搬硬套"><a href="#作者：沨泾w-本文仅用于测试文档功能，请勿生搬硬套" class="headerlink" title="作者：沨泾w 本文仅用于测试文档功能，请勿生搬硬套"></a>作者：沨泾w 本文仅用于测试文档功能，请勿生搬硬套</h4><h4 id="摘要：随着xxxx的普及，项目拟创建一种xxxx的检测方法，基于YOLO模型实现：xxxxx。该模型对xxxx进行识别，以达到xxx效果。研究表明，检测结果精确度达到xxx。"><a href="#摘要：随着xxxx的普及，项目拟创建一种xxxx的检测方法，基于YOLO模型实现：xxxxx。该模型对xxxx进行识别，以达到xxx效果。研究表明，检测结果精确度达到xxx。" class="headerlink" title="摘要：随着xxxx的普及，项目拟创建一种xxxx的检测方法，基于YOLO模型实现：xxxxx。该模型对xxxx进行识别，以达到xxx效果。研究表明，检测结果精确度达到xxx。"></a>摘要：随着xxxx的普及，项目拟创建一种xxxx的检测方法，基于YOLO模型实现：xxxxx。该模型对xxxx进行识别，以达到xxx效果。研究表明，检测结果精确度达到xxx。</h4><h4 id="关键词：学生行为识别；YOLO；计算机视觉技术"><a href="#关键词：学生行为识别；YOLO；计算机视觉技术" class="headerlink" title="关键词：学生行为识别；YOLO；计算机视觉技术"></a>关键词：学生行为识别；YOLO；计算机视觉技术</h4><h4 id="基金项目（KFCvivo50）"><a href="#基金项目（KFCvivo50）" class="headerlink" title="基金项目（KFCvivo50）"></a>基金项目（KFCvivo50）</h4><h2 id="1-研究背景"><a href="#1-研究背景" class="headerlink" title="1. 研究背景"></a>1. 研究背景</h2><h3 id="1-1-研究背景"><a href="#1-1-研究背景" class="headerlink" title="1.1 研究背景"></a>1.1 研究背景</h3><p>xxxx是xxxx，在我国发展中起着xxx作用，据统计，截止至xxxx年，我国xxxx。随着xxxx的发展，也带来了一系列问题：xxxx。鉴于此，本研究拟基于YOLO算法模型，实现xxxx，为助力XXXX增添力量。</p><h3 id="1-2-国内外研究情况"><a href="#1-2-国内外研究情况" class="headerlink" title="1.2 国内外研究情况"></a>1.2 国内外研究情况</h3><p>xxxx作为xxxx，在国内外已有一定相关研究：早期XXXX。。。但是依然存在xxx问题。xxx对其进行了改进，完善了xxxx。</p><h3 id="1-3-创新思路"><a href="#1-3-创新思路" class="headerlink" title="1.3 创新思路"></a>1.3 创新思路</h3><p>本研究采用xxxx，通过xxxx解决了xxxx的问题，使结果xxxx</p><h2 id="2-目标检测算法"><a href="#2-目标检测算法" class="headerlink" title="2. 目标检测算法"></a>2. 目标检测算法</h2><h3 id="2-1-目标检测算法"><a href="#2-1-目标检测算法" class="headerlink" title="2.1 目标检测算法"></a>2.1 目标检测算法</h3><p>目标检测算法是xxxxx，其中xxxxxx</p><h3 id="2-2-YOLO算法模型"><a href="#2-2-YOLO算法模型" class="headerlink" title="2.2 YOLO算法模型"></a>2.2 YOLO算法模型</h3><p>YOLO算法是xxxx</p><h3 id="2-3-目标检测行为评价指标"><a href="#2-3-目标检测行为评价指标" class="headerlink" title="2.3 目标检测行为评价指标"></a>2.3 目标检测行为评价指标</h3><p>我是神里绫华的狗：汪汪汪</p><h2 id="3-模型训练"><a href="#3-模型训练" class="headerlink" title="3. 模型训练"></a>3. 模型训练</h2><h3 id="3-1-数据集处理"><a href="#3-1-数据集处理" class="headerlink" title="3.1 数据集处理"></a>3.1 数据集处理</h3><p>找数据，太不容易了</p><h3 id="3-2-算法训练"><a href="#3-2-算法训练" class="headerlink" title="3.2 算法训练"></a>3.2 算法训练</h3><p>掏出了我祖传的RTX4080嘎嘎算，一天用5度电，嘿嘿，用的实验室的，嘿嘿。</p><h3 id="3-3-数据分析"><a href="#3-3-数据分析" class="headerlink" title="3.3 数据分析"></a>3.3 数据分析</h3><p>结果很棒，好的我可以预料到，毕竟我出马肯定是好结果</p><h2 id="4-改进算法训练"><a href="#4-改进算法训练" class="headerlink" title="4. 改进算法训练"></a>4. 改进算法训练</h2><h3 id="4-1-算法改进思路"><a href="#4-1-算法改进思路" class="headerlink" title="4.1 算法改进思路"></a>4.1 算法改进思路</h3><p>数据增强，算法迭代</p><h3 id="4-2-改进算法训练"><a href="#4-2-改进算法训练" class="headerlink" title="4.2 改进算法训练"></a>4.2 改进算法训练</h3><p>继续用学校的免费电费，happyhappyhappy~~~</p><h3 id="4-3-数据对比分析"><a href="#4-3-数据对比分析" class="headerlink" title="4.3 数据对比分析"></a>4.3 数据对比分析</h3><p>有所增强</p><h2 id="5-总结"><a href="#5-总结" class="headerlink" title="5. 总结"></a>5. 总结</h2><h3 id="5-1-总结"><a href="#5-1-总结" class="headerlink" title="5.1 总结"></a>5.1 总结</h3><p>结果很棒，改进算法嘎嘎好使，增强了0.00001%的准确率</p><h3 id="5-2-下一步研究方案"><a href="#5-2-下一步研究方案" class="headerlink" title="5.2 下一步研究方案"></a>5.2 下一步研究方案</h3><p>争取增强0.001%好吧</p><h3 id="5-3-致辞"><a href="#5-3-致辞" class="headerlink" title="5.3 致辞"></a>5.3 致辞</h3><p>谢谢各位同学愿意v我50</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> YOLO </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>欢迎您的到来</title>
       <link href="/2023/11/27/2023-11-27%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2023/11/27/2023-11-27%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
